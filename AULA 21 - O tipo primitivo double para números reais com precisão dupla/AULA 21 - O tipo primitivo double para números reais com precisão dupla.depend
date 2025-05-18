@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747534190 source:c:\users\paulo\documents\github\learning_c\aula 21 - o tipo primitivo double para números reais com precisão dupla\main.c
+	<stdio.h>
+	<stdlib.h>
+
