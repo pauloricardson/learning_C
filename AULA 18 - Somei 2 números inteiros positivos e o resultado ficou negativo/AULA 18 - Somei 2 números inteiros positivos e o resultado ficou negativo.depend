@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747532556 source:c:\users\paulo\documents\github\learning_c\aula 18 - somei 2 números inteiros positivos e o resultado ficou negativo\main.c
+	<stdio.h>
+	<stdlib.h>
+
