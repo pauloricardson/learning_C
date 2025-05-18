@@ -3,6 +3,7 @@
 
 // Utilizando o operador sizeof
 // sizeof x ou sizeof(int);
+// sizeof não é função, mas sim operador, constante
 
 
 int main(){
