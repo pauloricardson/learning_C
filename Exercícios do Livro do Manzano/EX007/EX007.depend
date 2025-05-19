@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1747685607 source:c:\users\paulo\documents\github\learning_c\exercícios do livro do manzano\ex007\main.c
+	<stdio.h>
+	<stdlib.h>
+
