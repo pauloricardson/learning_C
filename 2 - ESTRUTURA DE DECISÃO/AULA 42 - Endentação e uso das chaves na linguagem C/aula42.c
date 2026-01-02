@@ -14,6 +14,8 @@ int main(){
 	}
 	
 	printf("\nContinuacao do programa...\n");
+
+	printf("Isso é apenas para teste do git")
 	
 	return 0;
 }
